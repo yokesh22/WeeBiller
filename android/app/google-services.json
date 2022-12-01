@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11555838278",
+    "project_id": "weebiller-c2fd5",
+    "storage_bucket": "weebiller-c2fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11555838278:android:c2efa5cd378fd0c1e2ad47",
+        "android_client_info": {
+          "package_name": "com.example.wee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11555838278-grdv1e02ug5elf54krtd8cgk387mev2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHJ4gFZ8ABn8D4_A3nColMFuXOiEBKpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11555838278-grdv1e02ug5elf54krtd8cgk387mev2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
